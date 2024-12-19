@@ -4,11 +4,11 @@
 
 
 
-I'm a Cloud Engineer, and renewable energy advocate, with a legal background who currently works at [Tydaenergy](https://tydaenergy.com/). I am passionate about sharing knowledge, cloud engineering, and renewable energy solutions. I create insightful content on [Linkdin](https://x.com/montane_maigida),
+I'm a Cloud Engineer, and renewable energy advocate, with a legal background who currently works at [TYDACOMM(Tydaenergy)](https://tydaenergy.com/). I am passionate about sharing knowledge, cloud engineering, and renewable energy solutions. I create insightful content on [Linkdin](https://x.com/montane_maigida),
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
+- 😊 Gender: Male
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023/2024.
 - 🌱 I’m currently learning AWS, Linux, Networking, and Python.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
